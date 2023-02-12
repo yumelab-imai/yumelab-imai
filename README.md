@@ -21,8 +21,19 @@
 <div align=center>
  <h3>✉️contact</h3>
   
-[![Twitter Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=[https://www.facebook.com/profile.php?id=100005291171984](https://mobile.twitter.com/masa36940064))]([https://www.facebook.com/profile.php?id=100005291171984](https://mobile.twitter.com/masa36940064))
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)]([https://www.instagram.com/imbel9830/](https://instagram.com/masa_626_/))
+  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)]([https://www.instagram.com/imbel9830/](https://instagram.com/masa_344_/))
   <a href="mailto:masa.php.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=masa.php.engineer@gmail.com"/></a>
 
 </div>
+  
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+
+  ※Another skill and tools
+  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  
+# NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=react,next,mysql,laravel,docker" /> <br /><br />
