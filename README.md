@@ -22,7 +22,6 @@
  <h3>✉️contact</h3>
   
   
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)]([https://www.instagram.com/imbel9830/](https://instagram.com/masa_344_/))
   <a href="mailto:masa.php.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=masa.php.engineer@gmail.com"/></a>
 
 </div>
