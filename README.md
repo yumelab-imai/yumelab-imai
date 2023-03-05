@@ -43,4 +43,4 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,mysql,laravel,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
