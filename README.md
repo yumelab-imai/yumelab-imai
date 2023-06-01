@@ -10,10 +10,10 @@
 # URL
 
 <p align="left">
-    <a href="https://aaa.com"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="40" height="40"/></a> &nbsp; 
-    <a href="https://aaa.com"><img src="https://github.com/Masanarea/Masanarea/assets/93495976/e8bd8893-4252-4401-b69d-397cc721d7ca" alt="Lapras" width="40" height="40"/></a> &nbsp; 
+    <a href="https://github.com/Masanarea"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="40" height="40"/></a> &nbsp; 
+    <a href="https://lapras.com/public/ZBNQKPT"><img src="https://github.com/Masanarea/Masanarea/assets/93495976/e8bd8893-4252-4401-b69d-397cc721d7ca" alt="Lapras" width="40" height="40"/></a> &nbsp; 
     <a href="https://qiita.com/Masanarea_qiita/items/2e1616e4e18f6c8ee26d"><img src="https://cdn.qiita.com/assets/public/push_notification/image-qiitan-572179a3bbde375850422ea48b2b6272.png" alt="Qiita" width="40" height="40"/></a> &nbsp; 
-    <a href="https://aaa.com"><img src="https://pbs.twimg.com/profile_images/1192775453498494977/pb8Shc8G_400x400.jpg" alt="Zenn" width="40" height="40"/></a> 
+    <a href="https://zenn.dev/masanarea777"><img src="https://pbs.twimg.com/profile_images/1192775453498494977/pb8Shc8G_400x400.jpg" alt="Zenn" width="40" height="40"/></a> 
 </p>
 
 
