@@ -3,8 +3,11 @@
 ### Feel free to contact me anytime!👍
 #
 
+<!-- # URL -->
 
-# NOW TRAINING
+
+
+# Contact address
 
 
 
@@ -43,7 +46,7 @@
 
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,react,next,laravel,mysql,docker,github,vscode" /> <br /><br />
 
 # 
 ### 
