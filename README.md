@@ -2,6 +2,41 @@
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
+
+
+# NOW TRAINING
+
+
+
+
+<a href="https://twitter.com/Masa36940064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masanarea" height="30" width="40" /></a>
+<a href="mailto:masa.php.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=masa.php.engineer@gmail.com"/></a>
+</p>
+
+<!-- 横長の棒線 -->
+# 
+### 
+
+
+# My Skill (Programming Languages, Frameworks and Tools)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,mysql,github,vscode,docker,laravel,discord,php,jquery" /> <br /><br />
+
+  ※Another skill and tools
+  Codeigniter, Virtual Box, CakePHP, Backlog, Notion and so on.
+</p>
+
+<!-- 横長の棒線 -->
+# 
+### 
+
+# NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+
+# 
+### 
+
 ![Masanarea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masanarea&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masanarea&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,34 +44,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Masanarea&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
-
-
-# NOW TRAINING
-
-<p align="left">
-<a href="https://twitter.com/Masa36940064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masanarea" height="30" width="40" /></a>
-<a href="mailto:masa.php.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=masa.php.engineer@gmail.com"/></a>
-</p>
-
-
-
-# My Skill (Programming Languages, Frameworks and Tools)
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,mysql,github,vscode,docker,laravel,discord,php,jquery" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, Backlog, Notion and so on.
-  
-# Tech I have used
-
-<img src="https://skillicons.dev/icons?i=typescript,firebase,react,next,github,sqlite,gitlab,aws,vite" /> <br /><br />
-
-  ※Another skill and tools
-  CircleCI Vercel PlanetScale Chat_GTP flutter and so on.
-
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
