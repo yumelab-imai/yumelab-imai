@@ -20,10 +20,21 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,mysql,github,vscode,docker,laravel,discord,php,jquery" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,jquery,sass,figma,mysql,git,github,docker,vscode,discord" /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, Backlog, Notion and so on.
+< Additional Skills and Tools >
+
+- **Frameworks:** Codeigniter, CakePHP
+- **Virtualization Tools:** Virtual Box, Vagrant, MAMP
+- **Project Management Tools:** Backlog, Notion, Redmine
+- **Communication Tools:** Slack, Chatwork, Zoom, Google Meet, Discord, TeamViewer
+- **Version Control Tools:** Sourcetree
+- **Text Editors:** Sublime Text
+- **Database Tools:** phpMyAdmin
+- **File Transfer Tool:** FileZilla
+- **Office Tools:** Google Calendar, Google Spreadsheet, Excel, PowerPoint, Word
+
+...and more.
 </p>
 
 <!-- 横長の棒線 -->
