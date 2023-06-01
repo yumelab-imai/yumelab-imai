@@ -38,6 +38,7 @@
 - **Project Management Tools:** Backlog, Notion, Redmine
 - **Communication Tools:** Slack, Chatwork, Zoom, Google Meet, Discord, TeamViewer
 - **Version Control Tools:** Sourcetree
+- **AI Programming Tools:** ChatGPT, GitHub Copilot 
 - **Text Editors:** Sublime Text
 - **Database Tools:** phpMyAdmin
 - **File Transfer Tool:** FileZilla
