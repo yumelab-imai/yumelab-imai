@@ -4,6 +4,7 @@
 
 # Backend Developer in Japan👋
 ### 21 years old 
+### Doing Web development related to PHP, JavaScript, and AI in Kansai!
 ### Feel free to contact me anytime!👍
   <a href="https://twitter.com/Masa36940064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masanarea" height="30" width="40" /></a>
   <a href="mailto:masa.php.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=masa.php.engineer@gmail.com"/></a>
