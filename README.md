@@ -52,7 +52,7 @@ https://docs.google.com/spreadsheets/d/1w6CLvxZpIlBbv8EjlVTeTct9Z0UR2RnYT6pShwg1
 # 
 ### 
 
-# Recent Tech - stacks in use
+# Recent Tech Stacks in use
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=ts,php,py,laravel,react,nextjs,sass,aws,github,docker,vscode" /> <br /><br />
