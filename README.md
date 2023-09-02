@@ -9,7 +9,7 @@
   <a href="https://twitter.com/Masa36940064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yumelab-imai" height="30" width="40" /></a>
   <a href="mailto:masa.php.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=masa.php.engineer@gmail.com"/></a>
 
-# スキルシート(2023/06 更新)
+# スキルシート
 https://docs.google.com/spreadsheets/d/1w6CLvxZpIlBbv8EjlVTeTct9Z0UR2RnYT6pShwg1570/edit?usp=sharing
 
 # URL
@@ -28,22 +28,22 @@ https://docs.google.com/spreadsheets/d/1w6CLvxZpIlBbv8EjlVTeTct9Z0UR2RnYT6pShwg1
 ### 
 
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# My Skill (※ All have work experience)
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,jquery,sass,figma,mysql,git,github,docker,vscode,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,laravel,react,nextjs,vue,jquery,sass,aws,figma,mysql,git,github,docker,vscode" /> <br /><br />
 
 < Additional Skills and Tools >
 
+- **AWS (Used Service):** EC2, ALB, ACM, Route53, VPC, EIP
 - **Frameworks:** Codeigniter, CakePHP
-- **Virtualization Tools:** Virtual Box, Vagrant, MAMP
-- **Project Management Tools:** Backlog, Notion, Redmine
+- **Virtualization Tools:** Mutagen, Virtual Box, Vagrant, MAMP
+- **Project Management Tools:** Backlog, Click Up, Notion, Redmine
 - **Communication Tools:** Slack, Chatwork, Zoom, Google Meet, Discord, TeamViewer
 - **Version Control Tools:** Sourcetree
 - **AI Programming Tools:** ChatGPT, GitHub Copilot 
-- **Text Editors:** Sublime Text
 - **Database Tools:** phpMyAdmin
 - **File Transfer Tool:** FileZilla
-- **Office Tools:** Google Calendar, Google Spreadsheet, Excel, PowerPoint, Word
+- **Office Tools:** Google Calendar, Google Spreadsheet, Excel
 
 ...and more.
 </p>
