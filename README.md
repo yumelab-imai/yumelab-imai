@@ -52,9 +52,10 @@ https://docs.google.com/spreadsheets/d/1w6CLvxZpIlBbv8EjlVTeTct9Z0UR2RnYT6pShwg1
 # 
 ### 
 
-# NOW TRAINING
+# Recent Tech - stacks in use
 
-<img src="https://skillicons.dev/icons?i=typescript,react,next,laravel,mysql,docker,github,vscode" /> <br /><br />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,php,py,laravel,react,nextjs,sass,aws,github,docker,vscode" /> <br /><br />
 
 # 
 ### 
