@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-</head>
-
 # Backend Developer in Japan👋
 ### 21 years old 
 ### Doing Web development related to PHP, JavaScript, and AI in Kansai!
